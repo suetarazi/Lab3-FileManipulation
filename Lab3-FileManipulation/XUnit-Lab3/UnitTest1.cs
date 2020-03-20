@@ -9,7 +9,9 @@ namespace XUnit_Lab3
         [Fact]
         public void Test1()
         {
-
+            Assert.True(true);
         }
+    
+
     }
 }
