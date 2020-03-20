@@ -17,7 +17,7 @@ This is a C# console application that will ask a user to enter survival items to
 Clone this repository to your local machine.
 
 ```
-$ git clone [repo clone url here]
+$ git clone https://github.com/suetarazi/Lab3-FileManipulation
 ```
 
 ### To run the program from Visual Studio:
@@ -34,11 +34,11 @@ Then select and open ```Lab3-File-Manipulation.sln```
 ### Visuals
 
 #### Application Start
-![Image 1]()
+![Image 1](https://i.imgur.com/V185PTg.png)
 #### Using the Application
-![Image 1]()
+![Image 1](https://i.imgur.com/nPag9yO.png)
 #### Application End
-![Image 1]()
+![Image 1](https://i.imgur.com/WvUFV4j.png)
 
 ---
 
